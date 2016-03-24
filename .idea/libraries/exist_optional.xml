@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="exist-optional">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libreria/exist-optional.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

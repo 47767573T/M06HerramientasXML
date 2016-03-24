@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-io-2.4" level="project" />
+    <orderEntry type="library" name="exist" level="project" />
+    <orderEntry type="library" name="exist-optional" level="project" />
+    <orderEntry type="library" name="exist-xqj-1.0.1" level="project" />
+    <orderEntry type="library" name="exist-xqj-examples" level="project" />
+    <orderEntry type="library" name="log4j-1.2.17" level="project" />
+    <orderEntry type="library" name="ws-commons-util-1.0.2" level="project" />
+    <orderEntry type="library" name="xmldb" level="project" />
+    <orderEntry type="library" name="xmlrpc-client-3.1.3" level="project" />
+    <orderEntry type="library" name="xmlrpc-common-3.1.3" level="project" />
+    <orderEntry type="library" name="xmlrpc-server-3.1.3" level="project" />
+    <orderEntry type="library" name="xqj2-0.0.1" level="project" />
+    <orderEntry type="library" name="xqjapi" level="project" />
+  </component>
+</module>
